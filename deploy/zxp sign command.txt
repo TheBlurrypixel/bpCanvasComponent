@@ -1,1 +1,1 @@
-./ZXPSignCmd -sign blurrypixel.mxi blurrypixel.zxp zxpCert_selfsigned.p12 Tofu1234 -tsa http://timestamp.digicert.com/
+./ZXPSignCmd -sign MXI bpCanvasComponent.zxp zxpCert_selfsigned.p12 Tofu1234 -tsa http://timestamp.digicert.com/

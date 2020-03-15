@@ -1,5 +1,5 @@
 <macromedia-extension
-	 name="blurrypixelCanvas"
+	 name="bpCanvasComponent"
 	 version="1.0"
 	 type="component"
 	 locked="false">

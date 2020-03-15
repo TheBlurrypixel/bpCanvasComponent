@@ -1,0 +1,3 @@
+./ExManCmd_win/ExManCmd.exe //install ./blurrypixel.zxp
+
+./ExManCmd_win/ExManCmd.exe //remove blurrypixelCanvas

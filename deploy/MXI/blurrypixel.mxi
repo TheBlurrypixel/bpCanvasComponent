@@ -1,0 +1,40 @@
+<macromedia-extension
+	 name="blurrypixelCanvas"
+	 version="1.0"
+	 type="component"
+	 locked="false">
+
+	<author name="Michael Gochoco" />
+
+	<products>
+		<product name="Flash" version="15" primary="true" />
+	</products>
+
+	<update  />
+
+	<description>
+	<![CDATA[
+	 A Canvas Component.
+	]]>
+	</description>
+
+	<ui-access>
+	<![CDATA[
+	This tool can be accesed from Windows/component
+	]]>
+	</ui-access>
+
+	<license-agreement>
+
+	</license-agreement>
+
+	<files>
+		<file source="assets" destination="$FLASH\HTML5Components\blurrypixel\" file-type="ordinary" />
+		<file source="locale" destination="$FLASH\HTML5Components\blurrypixel\" file-type="ordinary" />
+		<file source="src" destination="$FLASH\HTML5Components\blurrypixel\" file-type="ordinary" />
+		<file source="components.js" destination="$FLASH\HTML5Components\blurrypixel\" file-type="ordinary" />
+	</files>
+
+	<signatures />
+
+</macromedia-extension>

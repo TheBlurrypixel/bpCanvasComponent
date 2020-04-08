@@ -60,9 +60,6 @@
       this._superApply(arguments);
       if(force || this._dirty['id']) {
         this._dirty['id'] = false;
-
-        // check if id is already taken by stage
-        while(this._options['id'] == stage.canvas.id) this._options['id'] += "_";
         $el.prop('id', this._options['id']);
       }
 		},

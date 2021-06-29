@@ -1,0 +1,3 @@
+1. Copy the contents of src to deploy/MXI
+2. Run zxp command.txt
+3. Run ExManCmd command.txt

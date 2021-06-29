@@ -1,3 +1,4 @@
+./ExManCmd_win/ExManCmd.exe //remove bpCanvasComponent
+
 ./ExManCmd_win/ExManCmd.exe //install ./bpCanvasComponent.zxp
 
-./ExManCmd_win/ExManCmd.exe //remove bpCanvasComponent

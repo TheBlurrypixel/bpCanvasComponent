@@ -3,7 +3,7 @@
 	"components": [{
 		"className": "blurrypixel.Canvas",
 		"displayName": "DISP_NAME_IMAGE",
-		"version": "1.0",
+		"version": "1.0.1",
 		"source": "src/bpCanvasComponent.js",
 		"icon": "assets/bp_Image_Sm",
 		"dimensions": [400, 300],

@@ -1,3 +1,12 @@
+// bpCanvasComponent.js
+// (c) 2021 Michael Gochoco
+// v1.0.1
+
+// this is component for creating a blank
+// HTML5 canvas element in Adobe Animate CC
+// Can be used for embedding separate canvas visuals
+// like ThreeJS, Spine, etc.
+
 (function($) {
 
 	// Register a component with the className: my.Image,
